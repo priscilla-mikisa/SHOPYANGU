@@ -1,9 +1,8 @@
-import ShopUI from "./components/Shop/page";
-
+import Dashboard from "./components/Dashboard/page";
 export default function Home() {
   return (
  <div>
-  <ShopUI/>
+  <Dashboard/>
  </div>
   );
 }
